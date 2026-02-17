@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- HOME -->
+  <url>
+    <loc>https://cinthyalopez.cl/</loc>
+    <lastmod>2025-02-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es-CL" href="https://cinthyalopez.cl/"/>
+  </url>
+
+  <!-- SOBRE MI -->
+  <url>
+    <loc>https://cinthyalopez.cl/#sobre-mi</loc>
+    <lastmod>2025-02-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- SERVICIOS -->
+  <url>
+    <loc>https://cinthyalopez.cl/#servicios</loc>
+    <lastmod>2025-02-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- CONTACTO -->
+  <url>
+    <loc>https://cinthyalopez.cl/#contacto</loc>
+    <lastmod>2025-02-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- BLOG INDEX -->
+  <url>
+    <loc>https://cinthyalopez.cl/blog</loc>
+    <lastmod>2025-02-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- BLOG ARTICLES -->
+  <url>
+    <loc>https://cinthyalopez.cl/blog/edad-hablar-senales-alerta-ninos</loc>
+    <lastmod>2025-02-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://cinthyalopez.cl/blog/tartamudez-ninos-mitos-realidades</loc>
+    <lastmod>2025-01-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://cinthyalopez.cl/blog/limpieza-oido-cerumen-valparaiso</loc>
+    <lastmod>2025-01-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://cinthyalopez.cl/blog/estimulacion-temprana-bebes-lenguaje</loc>
+    <lastmod>2024-12-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://cinthyalopez.cl/blog/disfagia-adultos-mayores-senales</loc>
+    <lastmod>2024-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://cinthyalopez.cl/blog/actividades-lenguaje-ninos-casa</loc>
+    <lastmod>2024-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>

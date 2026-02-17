@@ -1,0 +1,28 @@
+# robots.txt — Cinthya López Suazo | Fonoaudióloga Valparaíso
+# https://cinthyalopez.cl/
+
+User-agent: *
+Allow: /
+
+# Bloquear rutas innecesarias
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+
+# Sitemap
+Sitemap: https://cinthyalopez.cl/sitemap.xml
+
+# Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Yandex
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 2
